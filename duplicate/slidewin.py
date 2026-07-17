@@ -19,24 +19,21 @@ def slidewin(arr, k):
             
         test.pop(0)
         last = i+k
-        print(last)
         if last > l:
             last = l
-        test.append(arr[last])
+        test.append(arr[last-1])
         
     
     return False
 
 if __name__ == "__main__":
-    # lg = int(input("Enter Length: "))
-    # arr = [int(input(f"{i+1} Element: ")) for i in range(lg)]
-    # k = int(input("Enter K : "))
+    lg = int(input("Enter Length: "))
+    arr = [int(input(f"{i+1} Element: ")) for i in range(lg)]
+    k = int(input("Enter K : "))
     
-    # if slidewin(arr, k):
-    #     print("Duplicate Found ")
-    # else:
-    #     print("No Duplicate Found ")
+    if slidewin(arr, k):
+        print("Duplicate Found ")
+    else:
+        print("No Duplicate Found ")
         
-
-    # testing 
-    print(slidewin([1,2,3,4,1], 3))
+    # print(slidewin([1,2,3,4,1], 3))
