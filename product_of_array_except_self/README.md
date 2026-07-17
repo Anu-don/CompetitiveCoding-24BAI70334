@@ -41,9 +41,17 @@ This repository contains multiple Python solutions for the **Product of Array Ex
 **Space Complexity:** `O(1)` *(excluding the output array)*
 
 ## Screenshots
+![Screenshots](screenshots/image.png)
 
-![Sample Screenshot](image.png)
-![bruteforce.py, pre-sufix_array.py, single_pre-suffix_array.py](image-1.png)
+
+### Brute Force
+![Brute Force](screenshots/bruteforce.png)
+
+### Prefix & Suffix Arrays
+![Prefix & Suffix](screenshots/pre-sufix_array.png)
+
+### Single Prefix & Suffix Array
+![Single Prefix & Suffix](screenshots/single_pre-sufix_array.png)
 
 > **Note:** Replace the image filenames if your screenshots use different names.
 
@@ -80,7 +88,9 @@ python single_pre-sufix_array.py
 ├── pre-sufix_array.py
 ├── single_pre-sufix_array.py
 └── screenshots/
-
+    ├── bruteforce.png
+    ├── pre-sufix_array.png
+    └── single_pre-sufix_array.png
 ```
 
 ## Purpose
