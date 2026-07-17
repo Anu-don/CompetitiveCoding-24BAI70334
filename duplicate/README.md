@@ -28,8 +28,7 @@ This repository contains Python implementations of common Data Structures and Al
 
 ## Screenshots
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](screenshots/image.png)
 
 ### Brute Force
 ![Brute Force Output](screenshots/bruteforce.png)

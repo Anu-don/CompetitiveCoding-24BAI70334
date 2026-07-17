@@ -8,10 +8,10 @@ def slidewin(arr, k):
         k = l
         
     test = arr[1:k]
-    print(test)
+    # print(test)
     
     for i in range(l-1):
-        print(test,"   ", arr[i])
+        # print(test,"   ", arr[i])
         
         for p in test:
             if p == arr[i]:
