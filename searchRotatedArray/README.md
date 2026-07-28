@@ -44,8 +44,8 @@ target = 0
 
 ## Screenshots
 
-### Problem Statement
-![Problem Statement](SEARCHROTATEDARRAY/binarySearch.png)
+### Path
+![Path](path.png)
 
 ### Brute Force Output
 ![Brute Force](bruteForce.png)
