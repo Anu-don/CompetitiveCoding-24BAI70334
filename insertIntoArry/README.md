@@ -49,7 +49,7 @@ Element = 4
 ## Screenshots
 
 ### Brute Force Output
-![Brute Force](bruteForce.png)
+![Brute Force](bruteforce.png)
 
 ### Lower Bound Approach Output
 ![Lower Bound Approach](lowerBondApproach.png)
