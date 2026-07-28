@@ -53,7 +53,6 @@ This repository contains multiple Python solutions for the **Product of Array Ex
 ### Single Prefix & Suffix Array
 ![Single Prefix & Suffix](screenshots/single_pre-sufix_array.png)
 
-> **Note:** Replace the image filenames if your screenshots use different names.
 
 ## Language
 

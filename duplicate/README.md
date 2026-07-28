@@ -39,7 +39,6 @@ This repository contains Python implementations of common Data Structures and Al
 ### Sliding Window
 ![Sliding Window Output](screenshots/slidewin.png)
 
-> **Note:** Replace the image filenames with your actual screenshot names if they differ.
 
 ## Language
 
