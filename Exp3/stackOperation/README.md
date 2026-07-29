@@ -144,10 +144,10 @@ Last In → First Out
 ![Queue To Stack](queueToStack.png)
 
 ### Stack Using Two Queues
-![Stack To 2 Queue](stackTo2Queue.png)
+![Stack To 2 Queue](stackto2queue.png)
 
 ### Stack Using Queue
-![Stack To Queue](stackToQueue.png)
+![Stack To Queue](stacktoqueue.png)
 
 ---
 
