@@ -8,20 +8,16 @@ def bineryInsert(arr, tar):
     end = n - 1
     mid = end//2
     
-    while start < end:
-        print(mid)
-        
+    while start <= end:
+        mid = (start + end) // 2
         if tar < arr[mid]:
             end = mid - 1
         elif tar > arr[mid]:
-            start = mid
-        elif tar == arr[mid]:
-            print(f" Element is already present at Index {mid}") 
+            start = mid + 1
+        else:
+            print(f" Element is already present at Index {mid}")
             return mid
-        
-        mid = (start + end)//2
-        
-    return mid +1 
+    return start 
 
 if __name__ == "__main__":
     print(" "*10," Brute Force\n")
